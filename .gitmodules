@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CareerGalaxyCorp/careergalaxyapp.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CareerGalaxyCorp/Career-galaxy-ui.git
